@@ -1,3 +1,6 @@
+#Author: Mohammad Manzur Murhsid
+#University of Hartford, 2017-2018
+
 import serial  # importing serial library
 
 arduinoSerialData = serial.Serial('/dev/ttyACM0', 9600)
